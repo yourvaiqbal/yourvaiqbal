@@ -22,6 +22,6 @@ https://github.com/yourvaiqbal?tab=repositories
 https://github.com/yourvaiqbal?tab=projects
 
 ### Contact
-📍 Tangerang, Indonesia  
+📍 Jakarta, Indonesia  
 📧 yourva.iqbal@gmail.com  
-🔗 LinkedIn: linkedin.com/in/ahmad-iqbal-maulana-9669b8228
+🔗 LinkedIn: https://linkedin.com/in/ahmad-iqbal-maulana-9669b8228
