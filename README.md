@@ -14,8 +14,10 @@ Aspiring Data Analyst with 10+ years of experience in healthcare operations and 
 
 ### Explore My Work
 All of my analytics projects are available here:
+
 -- Repositories  
 https://github.com/yourvaiqbal?tab=repositories
+
 -- Project Boards  
 https://github.com/yourvaiqbal?tab=projects
 
