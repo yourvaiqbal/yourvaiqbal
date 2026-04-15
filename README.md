@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Ahmad Iqbal Maulana
+Aspiring Data Analyst with 10+ years of experience in healthcare operations and data management. I specialize in transforming raw data into meaningful insights using SQL, Python, Excel, and modern BI tools.
+I’m currently building a global-ready data analytics portfolio focusing on dashboards, business insights, and end‑to‑end data workflows.
 
-<!--
-**yourvaiqbal/yourvaiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technical Skills
+• Programming: Python (pandas, numpy, matplotlib)
+• Databases: SQL (MySQL, PostgreSQL)
+• Data Visualization: Looker Studio, Tableau, Power BI
+• Analytics: Data Cleaning, EDA, KPI Analysis, Reporting
+• Tools: Excel, Google Sheets, Git, Jupyter Notebook
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Contact
+📍 Tangerang, Indonesia
+📧 yourva.iqbal@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/ahmad-iqbal-maulana-9669b8228
