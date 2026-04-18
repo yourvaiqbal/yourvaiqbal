@@ -1,7 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/yourvaiqbal?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourvaiqbal?style=social)
-
-# Hi, I'm Ahmad Iqbal Maulana 👋
+# Hi, I'm Ahmad Iqbal Maulana
 
 I'm a Data Analyst with experience in data analysis, reporting, and dashboard development. With over 10 years of working with data in operational environments, I focus on transforming raw data into clear, actionable insights.
 
@@ -9,7 +6,7 @@ I have hands-on experience using SQL for data querying, Python (Pandas) for data
 
 ---
 
-## 🚀 Currently
+## Currently
 - Transitioning into a Data Analyst role, leveraging 10+ years of experience working with data  
 - Building practical portfolio projects using SQL, Python, and BI tools  
 - Continuously improving skills in data analysis, reporting, and data visualization  
@@ -17,41 +14,32 @@ I have hands-on experience using SQL for data querying, Python (Pandas) for data
 
 ---
 
-## 🔧 Technical Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib)  
-- **Databases:** SQL (MySQL, PostgreSQL)  
-- **Data Visualization:** Power BI, Tableau, Looker Studio  
-- **Analytics:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Analysis, Reporting  
-- **Tools:** Microsoft Excel, Google Sheets, Jupyter Notebook, Git  
+## Technical Skills
+- Programming: Python (Pandas, NumPy, Matplotlib)  
+- Databases: SQL (MySQL, PostgreSQL)  
+- Data Visualization: Power BI, Tableau, Looker Studio  
+- Analytics: Data Cleaning, EDA, KPI Analysis, Reporting  
+- Tools: Microsoft Excel, Google Sheets, Jupyter Notebook, Git  
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 📌 Sales Dashboard
+### Sales Dashboard
 - Built an interactive dashboard to monitor sales performance and key metrics  
 - Analyzed trends and identified key performance drivers  
-- Tools: Power BI / Tableau  
 
-### 📌 Customer Segmentation
+### Customer Segmentation
 - Performed data cleaning and segmentation analysis using Python  
 - Identified customer groups based on behavior patterns  
-- Tools: Python, SQL  
 
-### 📌 Cohort Analysis
+### Cohort Analysis
 - Analyzed customer retention and repeat purchase behavior  
 - Built cohort tables using SQL  
-- Tools: SQL  
 
 ---
 
-## 📁 Explore My Work
-- 🔗 Repositories: https://github.com/yourvaiqbal?tab=repositories  
-- 🔗 Project Boards: https://github.com/yourvaiqbal?tab=projects  
-
----
-
-## 📫 Contact
-📍 Jakarta, Indonesia  
-📧 yourva.iqbal@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ahmad-iqbal-m-9669b8228/
+## Contact
+Jakarta, Indonesia  
+Email: yourva.iqbal@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ahmad-iqbal-m-9669b8228/
