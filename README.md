@@ -1,27 +1,57 @@
 ![GitHub followers](https://img.shields.io/github/followers/yourvaiqbal?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourvaiqbal?style=social)
 
-### Hi, I'm Ahmad Iqbal Maulana
+# Hi, I'm Ahmad Iqbal Maulana 👋
 
-Aspiring Data Analyst with 10+ years of experience in healthcare operations and data management. I focus on transforming raw data into meaningful insights using SQL, Python, Excel, and modern BI tools.
+I'm a Data Analyst with experience in data analysis, reporting, and dashboard development. With over 10 years of working with data in operational environments, I focus on transforming raw data into clear, actionable insights.
 
-### Technical Skills
-- Programming: Python (pandas, numpy, matplotlib)
-- Databases: SQL (MySQL, PostgreSQL)
-- Data Visualization: Looker Studio, Tableau, Power BI
-- Analytics: Data Cleaning, EDA, KPI Analysis, Reporting
-- Tools: Excel, Google Sheets, Git, Jupyter Notebook
+I have hands-on experience using SQL for data querying, Python (Pandas) for data processing, and BI tools such as Power BI, Tableau, and Looker Studio to build interactive dashboards.
 
-### Explore My Work
-All of my analytics projects are available here:
+---
 
--- Repositories  
-https://github.com/yourvaiqbal?tab=repositories
+## 🚀 Currently
+- Transitioning into a Data Analyst role, leveraging 10+ years of experience working with data  
+- Building practical portfolio projects using SQL, Python, and BI tools  
+- Continuously improving skills in data analysis, reporting, and data visualization  
+- Open to remote and global Data Analyst opportunities  
 
--- Project Boards  
-https://github.com/yourvaiqbal?tab=projects
+---
 
-### Contact
+## 🔧 Technical Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Databases:** SQL (MySQL, PostgreSQL)  
+- **Data Visualization:** Power BI, Tableau, Looker Studio  
+- **Analytics:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Analysis, Reporting  
+- **Tools:** Microsoft Excel, Google Sheets, Jupyter Notebook, Git  
+
+---
+
+## 📊 Featured Projects
+
+### 📌 Sales Dashboard
+- Built an interactive dashboard to monitor sales performance and key metrics  
+- Analyzed trends and identified key performance drivers  
+- Tools: Power BI / Tableau  
+
+### 📌 Customer Segmentation
+- Performed data cleaning and segmentation analysis using Python  
+- Identified customer groups based on behavior patterns  
+- Tools: Python, SQL  
+
+### 📌 Cohort Analysis
+- Analyzed customer retention and repeat purchase behavior  
+- Built cohort tables using SQL  
+- Tools: SQL  
+
+---
+
+## 📁 Explore My Work
+- 🔗 Repositories: https://github.com/yourvaiqbal?tab=repositories  
+- 🔗 Project Boards: https://github.com/yourvaiqbal?tab=projects  
+
+---
+
+## 📫 Contact
 📍 Jakarta, Indonesia  
 📧 yourva.iqbal@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/ahmad-iqbal-maulana-9669b8228
+🔗 LinkedIn: https://www.linkedin.com/in/ahmad-iqbal-m-9669b8228/
