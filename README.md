@@ -4,15 +4,15 @@
 
 Data Analyst focused on transforming raw data into actionable business insights through SQL, Python, Excel, and BI dashboards.
 
-Specialized in analytics projects covering:
+Core analytics areas:
 - SQL analytics
-- Customer segmentation
-- Sales performance analysis
+- Customer behavior analysis
+- Sales performance reporting
 - Executive dashboards
-- Business reporting
+- KPI analysis
 - Data visualization
 
-I have experience working with operational and reporting data for more than 10 years and am now transitioning fully into global and remote Data Analyst opportunities.
+I have experience working with operational and reporting data for more than 10 years, with a strong focus on remote and global Data Analyst opportunities.
 
 ---
 
@@ -29,7 +29,7 @@ I have experience working with operational and reporting data for more than 10 y
 # Technical Skills
 
 ### Data Analytics
-- SQL (MySQL, PostgreSQL)
+- SQL
 - Python (Pandas, NumPy, Matplotlib)
 - Excel & Google Sheets
 - Exploratory Data Analysis (EDA)
@@ -41,9 +41,14 @@ I have experience working with operational and reporting data for more than 10 y
 - Power BI
 - Looker Studio
 
+### Databases
+- MySQL
+- PostgreSQL
+
 ### Tools
 - Jupyter Notebook
 - Git & GitHub
+- VS Code
 
 ---
 
