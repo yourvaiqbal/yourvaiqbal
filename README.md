@@ -94,14 +94,6 @@ Business reporting and analytics project using advanced Excel features:
 
 ---
 
-# Portfolio Links
-
-- GitHub: https://github.com/yourvaiqbal
-- LinkedIn: https://www.linkedin.com/in/ahmad-iqbal-maulana-9669b8228
-- Tableau Public: https://public.tableau.com/app/profile/data.analyst.iqbal
-
----
-
 # Currently Open To
 
 - Remote Data Analyst roles
@@ -111,8 +103,3 @@ Business reporting and analytics project using advanced Excel features:
 - Entry-Level / Junior Data Analyst positions
 
 ---
-
-# Contact
-
-📍 Jakarta, Indonesia  
-📧 yourva.iqbal@gmail.com
