@@ -65,7 +65,7 @@ With over 10 years of robust experience managing operational and reporting data 
 I am actively seeking professional engagements that leverage data to drive structural growth, optimize operational efficiency, and protect bottom-line health:
 * **Remote Data Analyst / Business Intelligence Roles**
 * **Global Opportunities & Data Consultancies**
-* **Growth Analytics & Product Analyst Positions**[cite: 6]
+* **Growth Analytics & Product Analyst Positions**
 
 *Feel free to explore my repositories or connect with me to discuss how we can unlock hidden revenue pools through data engineering and analytics.*
 
