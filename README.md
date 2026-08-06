@@ -17,16 +17,9 @@ My work focuses on practical end to end data tasks, from data cleaning and SQL q
 
 ---
 
-## Continuous Learning
+## Open for Global Opportunities
 
-- Advanced dbt & Analytics Engineering
-- BigQuery Optimization & Cloud Data Warehousing
-- Product Analytics & Growth Metrics
-
----
-
-## Connect With Me
-
-- **LinkedIn:** [Ahmad Iqbal Maulana](https://www.linkedin.com/in/ahmad-iqbal-maulana-9669b8228)
-- **Tableau Public:** [Iqbal's Tableau Profile](https://public.tableau.com/app/profile/data.analyst.iqbal)
-- **Email:** [yourda.iqbal@outlook.com](mailto:yourda.iqbal@outlook.com)
+- **Role Availability:** Open to global remote full time or contract roles as a Data Analyst, BI Analyst, or Reporting Specialist
+- **Employment Status:** Independent Contractor / B2B Contractor
+- **Tax & Legal Status:** W-8BEN eligible (ready for US & global engagements without visa sponsorship requirements)
+- **Location & Timezone:** Jakarta, Indonesia (GMT+7) — flexible to overlap with APAC, US, or EU working hours
