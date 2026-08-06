@@ -5,6 +5,7 @@
 I am a Data Analyst with over 10 years of background in healthcare operations and quality data management, dedicated to supporting business teams through hands on data analysis and accurate reporting.
 
 My work focuses on practical end to end data tasks, from data cleaning and SQL querying to building clear BI dashboards and structured operational reports that help teams make informed daily decisions.
+
 ---
 
 ## Tech Stack
