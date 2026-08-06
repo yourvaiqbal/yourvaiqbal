@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Iqbal Maulana 👋
+# Hello! I'm Ahmad Iqbal Maulana
 
 ## Data & BI Analyst | SQL • Python • BigQuery • dbt • Tableau • Power BI
 
@@ -23,3 +23,11 @@ My work focuses on practical end to end data tasks, from data cleaning and SQL q
 - **Employment Status:** Independent Contractor / B2B Contractor
 - **Tax & Legal Status:** W-8BEN eligible (ready for US & global engagements without visa sponsorship requirements)
 - **Location & Timezone:** Jakarta, Indonesia (GMT+7) — flexible to overlap with APAC, US, or EU working hours
+
+---
+
+## Connect With Me
+
+- [LinkedIn : Ahmad Iqbal Maulana](https://www.linkedin.com/in/dataanalystiqbal)
+- [Tableau : Ahmad Iqbal Maulana](https://public.tableau.com/app/profile/data.analyst.iqbal)
+
