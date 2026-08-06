@@ -2,10 +2,9 @@
 
 ## Data & BI Analyst | SQL • Python • BigQuery • dbt • Tableau • Power BI
 
-I am a Data Analyst with over 10 years of background in healthcare operations and quality data management, passionate about transforming raw, complex data into actionable business insights through modern analytics workflows.
+I am a Data Analyst with over 10 years of background in healthcare operations and quality data management, dedicated to supporting business teams through hands on data analysis and accurate reporting.
 
-My work focuses on end-to-end data analytics, from complex data transformation and modern data warehousing (ELT) to interactive executive dashboards and business recommendations.
-
+My work focuses on practical end to end data tasks, from data cleaning and SQL querying to building clear BI dashboards and structured operational reports that help teams make informed daily decisions.
 ---
 
 ## Tech Stack
