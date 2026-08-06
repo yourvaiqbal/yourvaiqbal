@@ -28,6 +28,6 @@ My work focuses on practical end to end data tasks, from data cleaning and SQL q
 
 ## Connect With Me
 
-- [LinkedIn : Ahmad Iqbal Maulana](https://www.linkedin.com/in/dataanalystiqbal)
-- [Tableau : Ahmad Iqbal Maulana](https://public.tableau.com/app/profile/data.analyst.iqbal)
+- [LinkedIn Profile : Ahmad Iqbal Maulana](https://www.linkedin.com/in/dataanalystiqbal)
+- [Portofolio Tableau : Ahmad Iqbal Maulana](https://public.tableau.com/app/profile/data.analyst.iqbal)
 
